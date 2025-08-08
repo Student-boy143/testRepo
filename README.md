@@ -1,2 +1,2 @@
 # testRepo
-nothing just to practice
+Some random stuffs !!
